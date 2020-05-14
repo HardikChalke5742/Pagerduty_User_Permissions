@@ -34,7 +34,7 @@ def get_pagerduty_users_list():
     return pagerduty_users_list, response_json
 
 
-# This function gives a list of all users present in PagerDuty
+# This function gives a list of all users on call
 
 def get_pagerduty_usersoncall_list():
 

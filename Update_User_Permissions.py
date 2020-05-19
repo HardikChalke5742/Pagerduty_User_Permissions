@@ -1,6 +1,6 @@
 import requests
 import json
-pagerduty_token = "SWdeP88pxu91ZSQq8yB-"
+pagerduty_token = "API token"
 pagerduty_users_list = []
 pagerduty_usersoncall_list = []
 pagerduty_usersnotoncall_list = []
